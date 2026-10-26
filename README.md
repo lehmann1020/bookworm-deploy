@@ -1,3 +1,3 @@
 # BookWorm
 
-Live site: add the Vercel address here after deploy.
+Live site: https://bookworm-deploy.vercel.app
